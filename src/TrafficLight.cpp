@@ -6,7 +6,7 @@
 
 // Implementation of class "MessageQueue" 
  
- // wait for and receive new messages
+ // Wait for and receive new messages
 template <typename T>
    T MessageQueue<T>::receive()
 {
